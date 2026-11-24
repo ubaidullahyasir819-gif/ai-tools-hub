@@ -1,0 +1,6 @@
+{
+  "name": "AI Tools Hub",
+  "description": "An all-in-one collection of 54+ fast, privacy-first browser utilities, calculators, JSON & CSV converters, SEO generators, YouTube tools, and AI prompt utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
